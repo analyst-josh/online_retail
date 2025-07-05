@@ -4,7 +4,7 @@ This project is an end-to-end data processing and analytics for an online retail
  
 
 
-# Online Retail Analysis
+## Online Retail Analysis
 
 This project combines Python, SQL, and Power BI for retail data analysis.
 
