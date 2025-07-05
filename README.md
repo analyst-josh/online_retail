@@ -16,3 +16,5 @@ This project combines Python, SQL, and Power BI for retail data analysis.
 
 ## Author
 Joshua
+
+![image](https://github.com/user-attachments/assets/56e1af2d-c872-41df-9337-7b9dcb928790)
