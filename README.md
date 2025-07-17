@@ -14,7 +14,8 @@ This project combines Python, SQL, and Power BI for retail data analysis.
 3. Open Power BI report
 
 
-![image](https://github.com/user-attachments/assets/56e1af2d-c872-41df-9337-7b9dcb928790)
+<img width="1315" height="756" alt="Online Retail Dash" src="https://github.com/user-attachments/assets/c4f3fbc5-30ba-4b61-8fba-9ebbd0df7199" />
+
 
 ---
 
